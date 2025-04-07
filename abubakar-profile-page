@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My PROFILE</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">ABOUT ME</a></li>
+                <li><a href="#hobbies">HOBBIES/INTEREST</a></li>
+                <li><a href="#contact">CONTACTS</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <article>
+                <h1>About Abubakar Idris Isyaku</h1>
+                <img src="assets/your_image.jpg" alt="Abubakar Idris Isyaku's Profile Picture" width="200" height="200" loading="lazy">
+                <p>My name is Abubakar Idris Isyaku, I was born in the year 1994 in Kaduna State. I did my primary and secondary school in Kaduna and I am also a graduate of Chemistry from Ahmadu Bello University, Zaria.</p>
+            </article>
+        </section>
+        <section id="hobbies">
+            <article>
+                <h2>Hobbies and Interests</h2>
+                <ul>
+                    <li>Learning digital skills</li>
+                    <li>Mining cryptocurrency</li>
+                    <li>Watching movies</li>
+                    <li>Eating food</li>
+                    <li>Fashion and design</li>
+                </ul>
+            </article>
+        </section>
+        <section id="contact">
+            <article>
+                <h2>Contact Information</h2>
+                <address>
+                    <a href="mailto:abubakaridrisisyaku@gmail.com">abubakaridrisisyaku@gmail.com</a>
+                </address>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Abubakar Idris Isyaku</p>
+    </footer>
+</body>
+</html>
